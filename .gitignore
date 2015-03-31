@@ -1,0 +1,13 @@
+*~
+*.bak
+~*
+*kate-swp
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+dbconnect.inc.php
+
