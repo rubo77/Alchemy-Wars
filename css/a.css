@@ -1,0 +1,7 @@
+<?php
+include("config.inc.php");
+?>.field{ 
+	width:<?=$conf["fwidth"]?>px;
+	height:<?=$conf["fheight"]?>px;
+	position:absolute;
+}
