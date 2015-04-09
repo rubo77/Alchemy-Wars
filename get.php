@@ -1,4 +1,5 @@
 <?
+error_reporting(E_ERROR | E_WARNING | E_PARSE);
 $game = gettest($_REQUEST['game']);                 #id des Spiels
 $newgame = gettest($_REQUEST['newgame']);           #set to "yes" to start a new game
 $nextround = gettest($_REQUEST['nextround']);       #set to "yes" to finish round for current player
